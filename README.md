@@ -1,7 +1,7 @@
 # packet_mangling
 This is a kernel module that leverage netfilter framework in Linux kernel to modify the incoming ICMP packets.
 
-![image](https://github.com/a110605/packet_mangling/blob/master/pictures/1.gif) 
+![image](https://i.imgur.com/NHx1g47.gif) 
 
 ## Netfilter Framework
 Netfilter is a set of hooks inside Linux kernel.
